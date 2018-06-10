@@ -1,3 +1,2 @@
-# Interview question in Pragonex
+# Interview question
 
-This is one the interview tasks I'm asking canditates to implement.
